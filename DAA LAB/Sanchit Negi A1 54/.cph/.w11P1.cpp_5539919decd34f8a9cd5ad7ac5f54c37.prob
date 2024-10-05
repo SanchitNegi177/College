@@ -1,0 +1,1 @@
+{"name":"Local: w11P1","url":"c:\\Users\\acer\\Desktop\\DAA LAB\\Sanchit Negi A1 54\\w11P1.cpp","tests":[{"id":1719249506263,"input":"3\n1 2 3\n4 5 6\n7 8 9","output":"Minimum number of multiplications is 6\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\acer\\Desktop\\DAA LAB\\Sanchit Negi A1 54\\w11P1.cpp","group":"local","local":true}

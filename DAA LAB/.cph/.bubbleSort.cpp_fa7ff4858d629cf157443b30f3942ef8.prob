@@ -1,0 +1,1 @@
+{"name":"Local: bubbleSort","url":"c:\\Users\\acer\\Desktop\\DAA LAB\\bubbleSort.cpp","tests":[{"id":1709351465721,"input":"5\n4 2 1 6 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\acer\\Desktop\\DAA LAB\\bubbleSort.cpp","group":"local","local":true}

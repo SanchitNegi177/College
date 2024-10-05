@@ -1,0 +1,1 @@
+{"name":"Local: w9P2","url":"c:\\Users\\acer\\Desktop\\DAA LAB\\After midsem week 5\\w9P2.cpp","tests":[{"id":1716614896369,"input":"6\n6 10 3 5 1 3\n6 2 1 8 3 5\n16","output":"22.125\n10 2\n3 1\n6 6\n5 0.625"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\acer\\Desktop\\DAA LAB\\After midsem week 5\\w9P2.cpp","group":"local","local":true}

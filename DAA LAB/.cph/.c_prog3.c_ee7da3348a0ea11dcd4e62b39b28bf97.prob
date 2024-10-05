@@ -1,0 +1,1 @@
+{"name":"Local: c_prog3","url":"c:\\Users\\acer\\Desktop\\cp\\cp-vscode\\c_prog3.c","tests":[{"id":1694672951159,"input":"3x^2-5x+2","output":"1 2 3 4 -10\n1 1 1 10 -10\n1 1 7 4 -10\n1 4 3 4 -10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\acer\\Desktop\\cp\\cp-vscode\\c_prog3.c","group":"local","local":true}
