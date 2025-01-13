@@ -1,0 +1,12 @@
+connect sys as sysdba
+password enter
+
+startup
+show user
+
+// To create new account
+create user Sanchit identified by ****;
+grant connect,resource to Sanchit;
+disconnect or disc
+
+
