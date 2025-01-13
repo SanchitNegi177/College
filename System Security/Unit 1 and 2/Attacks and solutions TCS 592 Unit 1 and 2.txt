@@ -1,0 +1,21 @@
+===================Vulnerabilities and Attacks===========
+1. Buffer Overflow
+2. Integer Overflow
+3. Format String Vulnerability and attack
+4. Dirty COW (Copy on Write)attack
+5. Privileged programs SET-UID
+6. Race Condition Vulnerability
+7. Return to libc attack
+8. Shellshock attack 
+9. Heartbleed attack
+===================Security Measures=====================
+
+1.Sandboxing and Isolation
+2.Tools & Techniques for writing Robust Application Software
+3. Security Vulnerability detection Tools and techniques
+4. Program analysis (static,concolic and dynamic)
+5. Privilege Management
+6. Access Control Security
+7. Operating System Security
+8. Exploitation Techniques and Fuzzing 
+9. Web security Model

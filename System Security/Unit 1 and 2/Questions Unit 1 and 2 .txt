@@ -1,0 +1,25 @@
+Describe the various Security features available in MS Windows 11
+
+How Authentication , Authorization and  Access Control is achieved in Micrsoft Operating System
+
+ANS : ACTIVE DIRECTORY SERVICES (ADS)
+LAN/NETWORK  SERVER : AD DC 
+
+What is the reason of various system/software(control hijacking attacks) vulnerabilities attacks ? 
+
+Reason is : The operating system and programming languages are atleast 10/15/20 years old so they are not SECURED enought (ROBUST) to tackle the current CYBER ATTACK
+====================================
+Q1. What do you mean by Access Control ? 
+Q2. What are the most essential components of Access Control ?
+Q3. What are the different Types of Access Control ?
+Q4. How Access control is managed in Amazon prime network 
+"why BLUETOOTH CONNECTIONS CANNOT BE PAIRED FORCEFULLY"
+====================================
+Q1. What do you mean by HEARTBLEED vulnerability and attack: SSL : openSSL 
+Q2. What do you mean by SHELLSHOCK vulnerability and attack : BASH SHELL : ENVIRONMENT VARIABLE 
+================================
+Q3. What do you mean by Dirty COW vulnerability and attack
+Q4. What is SET-UID
+
+
+
