@@ -1,0 +1,1 @@
+free(files[i].indexBlock);
